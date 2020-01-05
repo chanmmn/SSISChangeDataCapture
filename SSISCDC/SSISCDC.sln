@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29025.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{159641D6-6404-4A2A-AE62-294DE0FE8301}") = "SSISCDC", "SSISCDC\SSISCDC.dtproj", "{B00A5A0C-591B-4FA5-8BAA-5EDCCB5B11B6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Development|Default = Development|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B00A5A0C-591B-4FA5-8BAA-5EDCCB5B11B6}.Development|Default.ActiveCfg = Development
+		{B00A5A0C-591B-4FA5-8BAA-5EDCCB5B11B6}.Development|Default.Build.0 = Development
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F314E35-5F4B-4ABD-9759-91C7F83B43FD}
+	EndGlobalSection
+EndGlobal
